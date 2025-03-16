@@ -1,0 +1,10 @@
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\pr14_3_5\pr14_3_5\bin\Debug\pr14_3_5.exe.config
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\pr14_3_5\pr14_3_5\bin\Debug\pr14_3_5.exe
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\pr14_3_5\pr14_3_5\bin\Debug\pr14_3_5.pdb
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\pr14_3_5\pr14_3_5\obj\Debug\pr14_3_5.csproj.AssemblyReference.cache
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\pr14_3_5\pr14_3_5\obj\Debug\pr14_3_5.Form1.resources
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\pr14_3_5\pr14_3_5\obj\Debug\pr14_3_5.Properties.Resources.resources
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\pr14_3_5\pr14_3_5\obj\Debug\pr14_3_5.csproj.GenerateResource.cache
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\pr14_3_5\pr14_3_5\obj\Debug\pr14_3_5.csproj.CoreCompileInputs.cache
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\pr14_3_5\pr14_3_5\obj\Debug\pr14_3_5.exe
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 семестр\pr14_3_5\pr14_3_5\obj\Debug\pr14_3_5.pdb
